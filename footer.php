@@ -1,0 +1,1 @@
+<footer class="site-footer"><div class="container footer-inner"><div><strong>SYSEDA TECHNOLOGY</strong><p>Engineering Smarter, Building Better</p></div><div><p><a href="mailto:info@syseda.co.in">info@syseda.co.in</a> · <a href="tel:+919500044070">+91 9500044070</a></p><p>Chennai, Tamil Nadu, India</p></div></div></footer><?php wp_footer(); ?></body></html>

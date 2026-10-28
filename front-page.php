@@ -1,0 +1,19 @@
+<?php get_header(); ?>
+<main>
+<div class="hero"><div class="container hero-grid"><div>
+  <div class="eyebrow">Engineering • Automation • Solar</div>
+  <h1>Design. Troubleshoot.<br><span>Improve. Automate.</span></h1>
+  <p>Practical engineering support for manufacturers and businesses—from machine design and troubleshooting to machine modification, industrial automation and solar installations.</p>
+  <div class="actions"><a class="btn btn-primary" href="<?php echo esc_url(home_url('/get-a-quote/')); ?>">Get a Quote</a><a class="btn btn-secondary" href="https://wa.me/919500044070?text=Hello%20SYSEDA%20Technology%2C%20I%20would%20like%20to%20discuss%20a%20project." target="_blank" rel="noopener">Enquire on WhatsApp</a></div>
+</div><aside class="hero-card"><span class="pill">HOW WE CAN HELP</span><h2>Engineering support for real-world problems</h2><ul><li>Machine design and engineering drawings</li><li>Machine fault finding and troubleshooting</li><li>Machine retrofits, upgrades and modifications</li><li>PLC, SCADA, HMI and robotics automation</li><li>Solar system supply and installation</li></ul></aside></div></div>
+<section id="services"><div class="container"><div class="section-title"><h2>Our Services</h2><p>Tell us the challenge you are facing or the improvement you want to make. We’ll review the scope and discuss a suitable solution.</p></div><div class="services">
+<article class="service"><div class="num">01</div><h3>Design & Engineering</h3><p>New equipment, machine concepts and engineering documentation.</p><ul><li>Machine and fixture design</li><li>CAD models, 2D drawings and DXF</li><li>Design improvements</li></ul></article>
+<article class="service"><div class="num">02</div><h3>Machine Troubleshooting</h3><p>Structured fault-finding to identify issues and restore reliable operation.</p><ul><li>Mechanical and automation faults</li><li>PLC, HMI and control systems</li><li>Recurring-fault investigation</li></ul></article>
+<article class="service"><div class="num">03</div><h3>Machine Modification & Retrofit</h3><p>Upgrade existing equipment to meet changing production needs.</p><ul><li>Machine redesign and retrofit</li><li>Control and process upgrades</li><li>Testing and commissioning</li></ul></article>
+<article class="service"><div class="num">04</div><h3>Industrial Automation</h3><p>Automation for production equipment and industrial processes.</p><ul><li>PLC, SCADA and HMI programming</li><li>Robot integration and support</li><li>Controls upgrades</li></ul></article>
+<article class="service"><div class="num">05</div><h3>Solar Installation</h3><p>Solar solutions for homes, commercial facilities and industrial sites.</p><ul><li>On-grid, off-grid and hybrid</li><li>System sizing and installation</li><li>Energy storage options</li></ul></article>
+<article class="service"><div class="num">06</div><h3>Site Support & Commissioning</h3><p>Practical on-site support for installation, testing and handover.</p><ul><li>Equipment installation support</li><li>Functional testing</li><li>Technical recommendations</li></ul></article>
+</div></div></section>
+<section class="why"><div class="container"><div class="section-title"><h2>Why Work With SYSEDA?</h2><p>Engineering-focused support, shaped around your equipment, process and project goals.</p></div><div class="why-grid"><div class="why-item"><span>✓</span>Practical Engineering</div><div class="why-item"><span>✓</span>Tailored Solutions</div><div class="why-item"><span>✓</span>Automation Expertise</div><div class="why-item"><span>✓</span>Responsive Support</div></div></div></section>
+<div class="quote-band"><div class="container inner"><div><h2>Have a machine or solar project?</h2><p>Tell us what you need and request a quotation.</p></div><a class="btn btn-primary" href="<?php echo esc_url(home_url('/get-a-quote/')); ?>">Request a Quote</a></div></div>
+</main><?php get_footer(); ?>
